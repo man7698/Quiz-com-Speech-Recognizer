@@ -1,0 +1,146 @@
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.ranking.resources
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+D:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.ranking.resources
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matheus\Desktop\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.ranking.resources
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.ranking.resources
+F:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.ranking.resources
+D:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.ranking.resources
+E:\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.exe
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Quiz 100 anos Unasp.pdb
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csprojResolveAssemblyReference.cache
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Menu.resources
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.opc.resources
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas_Dificil.resources
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Perguntas.resources
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.perguntas_Medio.resources
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.Properties.Resources.resources
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz_100_anos_Unasp.ranking.resources
+C:\Users\61297\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Matheus\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matheus\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.csproj.ResolveComReference.cache
+C:\Users\Matheus\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.exe
+C:\Users\Matheus\Desktop\Matheus Almeida -P32B -Quiz 100 anos Unasp\Quiz 100 anos Unasp\obj\x86\Debug\Quiz 100 anos Unasp.pdb
